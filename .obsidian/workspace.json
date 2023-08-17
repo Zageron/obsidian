@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design.md"
+                "file": "Overview.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "aa400d3e702f388e",
   "lastOpenFiles": [
-    "Design Overview.md",
-    "Game Design.md"
+    "_index.md",
+    "Overview.md",
+    "Combat/_index.md",
+    "Combat/A Brief Overview.md",
+    "Combat",
+    "Design Overview.md"
   ]
 }
