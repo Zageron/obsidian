@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eedfc2063aebb023",
+        "id": "4badcd0106f6c22a",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ad2f8076404b8a",
+            "id": "bff4d6a1971d888c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Overview.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa400d3e702f388e",
+  "active": "bff4d6a1971d888c",
   "lastOpenFiles": [
-    "_index.md",
     "Overview.md",
-    "Combat/_index.md",
+    "_index.md",
     "Combat/A Brief Overview.md",
+    "Combat/_index.md",
     "Combat",
-    "Design Overview.md"
+    "setup/images/obsidian-settings.png",
+    "setup/images/google-domains.png",
+    "setup/images/github-pages.png",
+    "setup/images/github-actions.png",
+    "setup/updating.md",
+    "setup/_index.md",
+    "setup/troubleshooting.md",
+    "setup/setup.md",
+    "setup/search.md",
+    "setup/preview changes.md",
+    "setup/obsidian.md",
+    "setup/images",
+    "setup/hosting.md",
+    "setup/ignore notes.md",
+    "setup/editing.md",
+    "setup/custom Domain.md",
+    "setup/config.md",
+    "setup",
+    "features/section/_index.md",
+    "features/section/first-page.md",
+    "features/section/second-page.md",
+    "features/_index.md",
+    "features/tabs.md",
+    "features/section",
+    "features/mermaid.md",
+    "features/latex.md",
+    "features/languages.md",
+    "features/expand.md",
+    "features/details.md",
+    "features",
+    "example/collapsed/3rd-level",
+    "example/table-of-contents",
+    "example/collapsed",
+    "example"
   ]
 }
