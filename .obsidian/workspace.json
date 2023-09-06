@@ -11,8 +11,12 @@
             "id": "b5d88acad301e5eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_index.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "b5d88acad301e5eb",
   "lastOpenFiles": [
-    "_index.md",
-    "Overview.md",
-    "Combat/A Brief Overview.md",
     "Combat/_index.md",
+    "_index.md",
+    "Combat/A Brief Overview.md",
+    "Overview.md",
     "Combat",
     "setup/images/obsidian-settings.png",
     "setup/images/google-domains.png",

@@ -1,6 +1,8 @@
 ---
 title: Hex
 enableToc: true
+linkTitle: Home
+weight: -99
 ---
 # order of implementation
 1. Rendering and input
