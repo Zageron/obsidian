@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4badcd0106f6c22a",
+        "id": "818a0ace5fcdb7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "bff4d6a1971d888c",
+            "id": "b5d88acad301e5eb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bff4d6a1971d888c",
+  "active": "b5d88acad301e5eb",
   "lastOpenFiles": [
-    "Overview.md",
     "_index.md",
+    "Overview.md",
     "Combat/A Brief Overview.md",
     "Combat/_index.md",
     "Combat",
