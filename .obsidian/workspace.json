@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Music/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Music/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Music/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Music/_index.md"
+              }
+            }
+          },
+          {
+            "id": "42b1e8cfca1620f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -149,8 +159,11 @@
   "active": "b5d88acad301e5eb",
   "lastOpenFiles": [
     "Combat/_index.md",
-    "_index.md",
+    "Music/_index.md",
+    "Music/_index.md",
     "Combat/A Brief Overview.md",
+    "_index.md",
+    "Music",
     "Overview.md",
     "Combat",
     "setup/images/obsidian-settings.png",
@@ -180,8 +193,6 @@
     "features/mermaid.md",
     "features/latex.md",
     "features/languages.md",
-    "features/expand.md",
-    "features/details.md",
     "features",
     "example/collapsed/3rd-level",
     "example/table-of-contents",
